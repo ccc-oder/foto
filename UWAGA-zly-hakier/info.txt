@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: VT323-Regular
+font link: https://fonts.google.com/specimen/VT323
+font author: Peter Hull
+font author site: https://github.com/phoikoi
+Slogan Font: VT323-Regular
+
+icon designer: Adrien Coquet
+icon designer link: /coquet_adrien
+        
+
+fontColor: {"gradient-0":"#404040","gradient-1":"#A6442F"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#404040","gradient-1":"#A6442F"}
+sloganColor: {"hex":"#A61C0B"}
+      
