@@ -1,0 +1,2 @@
+# foto
+foto.ccoder.org
